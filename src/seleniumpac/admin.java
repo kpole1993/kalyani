@@ -5,6 +5,7 @@ public class admin {
 	void init()
 	{
 		int a;
+		int c;
 	
 	}
 	

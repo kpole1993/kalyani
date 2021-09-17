@@ -6,7 +6,9 @@ public class Login {
 	{
 	
 	}
-
+       void login2()
+          {
+          }
 	public static void main(String[] args) {
 
 	}
